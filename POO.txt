@@ -1,2 +1,5 @@
 Olá, mundo!
 1 - git init para iniciar o git
+2 - git add nomedoarquivo.txt
+3 - git status
+4 - git commit -m "comentario"
