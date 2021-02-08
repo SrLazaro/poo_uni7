@@ -4,3 +4,4 @@ Olá, mundo!
 3 - git status
 4 - git commit -m "comentario"
 5 - Para atualizar é preciso dar git add no arquivo e depois fazer o commit
+6 - git log para ver histórico de alteraçoes
