@@ -1,0 +1,2 @@
+Olá, mundo!
+1 - git init para iniciar o git
