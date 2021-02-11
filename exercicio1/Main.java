@@ -3,6 +3,8 @@ class Main{
 
   public static void main(String args[]){
 
+    // javac *.java && java Main
+
     // Instanciando cachorros
     Cachorro c1 = new Cachorro();
     Cachorro c2 = new Cachorro();
@@ -13,6 +15,9 @@ class Main{
 
     c2.nome = "Bily";
     c2.idade = 4;
+
+    // Latindo
+    c1.latir();
 
   }
 
